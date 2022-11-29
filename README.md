@@ -7,7 +7,7 @@
 ## What I am
 
 - Full-stack developer (MERN, Spring Boot)
-- Cybersecurity writer: My medium blog can be found at [ipurujit.medium.com](https://ipurujit.medium.com/)
+- Cybersecurity writer: My blog can be found at [ipurujit.medium.com](https://ipurujit.medium.com/)
 - German expert
 
 ## What I know
