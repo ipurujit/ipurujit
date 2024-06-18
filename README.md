@@ -8,7 +8,7 @@
 
 - Full-stack developer (MERN, Spring Boot)
 - Cybersecurity writer: My blog can be found at [ipurujit.medium.com](https://ipurujit.medium.com/)
-- German expert
+- German language proficient (C1 level)
 
 ## What I know
 
