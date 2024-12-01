@@ -1,13 +1,12 @@
 # Welcome to Purujit's world
 
-## What I studied
+Purujit is currently studying Master's in Applied Security (CyberMACS).
 
-- B.E. Computer Engineering
+## Background
 
-## What I am
-
-- Full-stack developer (MERN, Spring Boot)
-- Cybersecurity writer: My blog can be found at [ipurujit.medium.com](https://ipurujit.medium.com/)
+- B.E. in Computer Engineering from India
+- Full-SDLC Engineer with specialization in backend development (Spring Boot, MERN) and cloud (AWS, Azure, GCP)
+- Cybersecurity writer: His articles can be found on [Baeldung - Linux](https://www.baeldung.com/linux/author/purujitsrinivasan) and [ipurujit.medium.com](https://ipurujit.medium.com/)
 - German language proficient (C1 level)
 
 ## What I know
@@ -53,7 +52,7 @@
 - AWS (certified)
 - Firebase
 - GCP (certified)
-- Azure
+- Azure (certified)
 - Heroku
 
 </details>
@@ -76,10 +75,8 @@
 
 </details>
 
-#
-
-## Check these out to know more about me
+## Check these out to know more about him
 
 - LinkedIn profile [purujit-srinivasan](https://www.linkedin.com/in/purujit-srinivasan/)
 - Personal blog at [mockingmoon.wordpress.com](https://mockingmoon.wordpress.com/)
-- Original GitHub repo at [mockingoon](https://github.com/mockingmoon/)
+- Older projects on his previous GitHub repo at [mockingoon](https://github.com/mockingmoon/)
