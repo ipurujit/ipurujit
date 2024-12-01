@@ -1,6 +1,6 @@
 # Welcome to Purujit's world
 
-Purujit is currently studying Master's in Applied Security (CyberMACS).
+Purujit is currently studying [Master's in Applied Security (CyberMACS)](https://cybermacs.eu/)
 
 ## Background
 
@@ -9,16 +9,19 @@ Purujit is currently studying Master's in Applied Security (CyberMACS).
 - Cybersecurity writer: His articles can be found on [Baeldung - Linux](https://www.baeldung.com/linux/author/purujitsrinivasan) and [ipurujit.medium.com](https://ipurujit.medium.com/)
 - German language proficient (C1 level)
 
-## What I know
+## Skills
 
 ### Coding
 
+<details>
+<summary>Programming Languages</summary>
 - Java
 - Python
 - JavaScript (Node.js)
 - C/C++
 - TypeScript
 - Bash
+</details>
 
 <details>
 <summary>Frontend</summary>
