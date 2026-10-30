@@ -1,9 +1,10 @@
 # Welcome to Purujit's world
 
-Purujit is currently studying [Master's in Applied Security (CyberMACS)](https://cybermacs.eu/)
+Purujit is currently looking for full-time Cybersecurity related roles!
 
 ## Background
 
+- [Erasmus Mundus Master's in Applied Security (CyberMACS)](https://cybermacs.eu/) - double degree from Istanbul, Türkiye, and Skopje, North Macedonia
 - B.E. in Computer Engineering from India
 - Full-SDLC Engineer with specialization in backend development (Spring Boot, MERN) and cloud (AWS, Azure, GCP)
 - Cybersecurity writer: His articles can be found on [Baeldung - Linux](https://www.baeldung.com/linux/author/purujitsrinivasan) and [ipurujit.medium.com](https://ipurujit.medium.com/)
